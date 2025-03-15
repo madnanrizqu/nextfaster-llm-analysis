@@ -1,0 +1,1 @@
+Looks quite good! Surprised that it look at many places where there could be explainations on how rendering strategy is implemented: like looking at readme file, looking at next.js config file, page.tsx file

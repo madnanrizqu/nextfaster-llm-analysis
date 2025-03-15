@@ -1,0 +1,1 @@
+I think the answer is a bit missleading. I would not call Next.js server actions a state management solution. Looking at the codebase a bit theres still some useState that is used, so a more proper answer would mention that

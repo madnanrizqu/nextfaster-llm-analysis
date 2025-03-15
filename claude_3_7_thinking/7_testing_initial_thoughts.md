@@ -1,0 +1,1 @@
+The LLM is correct to say right now there is no testing in place in the codebase. This was a trick question! But it failed to understood that there was never plan for end-to-end testing in the codebase because @playwright/test was just a peer deps of a deps of the codebase

@@ -1,0 +1,1 @@
+I feel it mostly hit the mark, explaining all directories that are inside of the project. But I see that it does not go to deep on each directory, not trying to understand the subdirectories of each directory
